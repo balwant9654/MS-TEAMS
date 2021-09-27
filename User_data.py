@@ -1,5 +1,5 @@
 User_data = {
 
-    'Email':'181210015@nitdelhi.ac.in',
-    'Password':'Ballu@Bhai'
+    'Email':'Email_ID',
+    'Password':'Password'
 }
